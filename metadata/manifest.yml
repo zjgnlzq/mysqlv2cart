@@ -52,5 +52,6 @@ Install-Build-Required: false
 #Source-Url: https://github.com/wsun1/mysqlv2cart.git
 #Source-Url: git://github.com/wsun1/mysqlv2cart.git
 #Source-Url: http://github.com/wsun1/mysqlv2cart.git
-Source-Url: https://github.com/wsun1/mysqlv2cart/archive/master.zip
+#Source-Url: https://github.com/wsun1/mysqlv2cart/archive/master.zip
+Source-Url: file:///root/mysqlv2cart/
 
