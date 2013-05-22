@@ -49,9 +49,4 @@ Endpoints:
     Private-Port:      3306
     Public-Port-Name:  DB_PROXY_PORT
 Install-Build-Required: false
-#Source-Url: https://github.com/wsun1/mysqlv2cart.git
-#Source-Url: git://github.com/wsun1/mysqlv2cart.git
-#Source-Url: http://github.com/wsun1/mysqlv2cart.git
-#Source-Url: https://github.com/wsun1/mysqlv2cart/archive/master.zip
-Source-Url: file:///root/mysqlv2cart/
-
+Source-Url: https://github.com/wsun1/perlv2cart/raw/master/mysqlv2cart.tar.gz
