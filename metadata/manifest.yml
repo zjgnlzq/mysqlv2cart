@@ -1,4 +1,4 @@
-Name: wsunmysql
+Name: mysql
 Cartridge-Short-Name: MYSQL
 Architecture: noarch
 Display-Name: MySQL Database 5.1
